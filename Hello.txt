@@ -1,2 +1,12 @@
 Don't write in this file , create a new file hello world 
 hello first year
+1. topics :- create repo.
+2. fork,file
+3. add. = complete folder
+4. add file = particular 
+5 commit
+6. stage all changes
+7. stash all changes partially
+8. branch :- name by which we are doing changes
+9. origin :- URL
+10. push,pull
